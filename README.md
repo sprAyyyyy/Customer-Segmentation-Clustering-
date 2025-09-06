@@ -1,4 +1,5 @@
-# 👥 Customer Segmentation Analysis: Data-Driven Marketing Optimization
+# Customer Segmentation Analysis: Data-Driven Marketing Optimization
+![Market-Segmentation-Analysis](Market-Segmentation-Analysis.jpg)
 
 
 ## 🎯 Project Overview
