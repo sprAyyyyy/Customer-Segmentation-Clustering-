@@ -1,10 +1,5 @@
 # 👥 Customer Segmentation Analysis: Data-Driven Marketing Optimization
 
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*VXGdHIkirrDS8Gfo-EDFsg.png" width="500">
-  <br>
-  <em>Leveraging machine learning to unlock customer insights and drive personalized marketing strategies</em>
-</div>
 
 ## 🎯 Project Overview
 
