@@ -194,7 +194,7 @@ Our segmentation analysis addresses these challenges by identifying distinct cus
 
 ### ROI Analysis Dashboard
 
-![ROI Dashboard](roi_dashboard.png)
+![ROI Dashboard](roi_dashboard1.png)
 
 **ROI Highlights:**
 - **High-Value Segment**: 4.2x ROI from VIP program investment
@@ -229,7 +229,7 @@ Our segmentation analysis addresses these challenges by identifying distinct cus
 
 ### Statistical Validation
 
-![Statistical Validation](statistical_validation.png)
+![Statistical Validation](statistical_validation1.png)
 
 **Validation Results:**
 - **Silhouette Score**: 0.67 (Strong cluster separation)
